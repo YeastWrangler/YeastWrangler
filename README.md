@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YeastWrangler
-- 👀 I began my coding journey in 2022. I enjoy playing chess, reading (some non-fiction but mostly mysteries/thrillers), traveling, cruising, Star Wars, and spending time with my family.
-- 🌱 I’m currently learning the basics of JavaScript
+- 👀 I began my coding journey in mid 2022. I enjoy playing chess, reading (some non-fiction but mostly mysteries/thrillers), traveling, cruising, Star Wars, and spending time with my family.
+- 🌱 I’m currently learning Python and Solidity
 - 💞️ I’m looking to collaborate on a block chain project eventually.
 - 📫 How to reach me safermentologist@gmail.com 
 
